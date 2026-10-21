@@ -1,0 +1,17 @@
+
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Build output
+build/
+bin/
+target/
+
+# Logs
+*.log
+
+# Secrets
+.env
